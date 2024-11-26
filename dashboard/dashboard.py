@@ -59,10 +59,10 @@ for column in datetime_columns:
     dayc_df[column] = pd.to_datetime((dayc_df[column]))
 
 min_date_dayc = dayc_df["dteday"].min()
-max_date_dayc = dayc_df["dteday"].min()
+max_date_dayc = dayc_df["dteday"].max()
 
 min_date_hourc = hourc_df["dteday"].min()
-max_date_hourc =  hourc_df["dteday"].min()
+max_date_hourc =  hourc_df["dteday"].max()
 
 with st.sidebar:
     st.image("https://github.com/tarishrisqan/Dicoding_Deco/blob/main/bike.jpg?raw=true")
