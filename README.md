@@ -16,3 +16,7 @@
     ```shell
     pip install streamlit
     pip install -r requirements.txt
+
+
+#Link Streamlit_deploy
+ Klik Disini untuk melihat website [Bike_sharing_rish](https://bike-sharing-rish.streamlit.app//)
