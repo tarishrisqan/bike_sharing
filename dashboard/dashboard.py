@@ -44,8 +44,8 @@ def hour_order (hour_df):
     hour_order_df = hour_df.groupby("hour").count_ttl.sum().sort_values(ascending=False).reset_index
     return hour_order_df
 
-dayc_df = pd.read_csv("/dashboard/day_confirm.csv")
-hourc_df= pd.read_csv("/dashboard/hour_confirm.csv")
+dayc_df = pd.read_csv("dashboard/day_confirm.csv")
+hourc_df= pd.read_csv("dashboard/hour_confirm.csv")
 
 datetime_columns = ["dteday"]
 dayc_df.reset_index(inplace=True)
