@@ -1,10 +1,10 @@
-# Dashboard Tarish  Bike Sharing ✨
+# Submission Dicoding "Belajar Data Analytics dengan Python"✨
 
-# Preview
+## Project Data Analytics
+Ini adalah project python pertama saya yang bertujuan untuk menyelesaikan Persyaratan di Dicoding Bootcamp  dalam kelas Belajar Analysis data dengan python dengan tujuan akhir Deployment in **Streamlit** 
+
+## Preview
 <img width="1280" alt="{A129397C-1D60-4F1B-9691-6C5D59B3E1BB}" src="https://github.com/user-attachments/assets/9e6c231d-957d-46fa-8d93-7643cee01372">
-
-## Project Belajar Analysis data dengan python
-Ini adalah project python pertama saya yang bertujuan untuk menyelesaikan kelas di Dicoding Bootcamp Dengan kelas Belajar Analysis data dengan python
 
 ## Instalasi
 
