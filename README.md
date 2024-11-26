@@ -20,6 +20,15 @@ Ini adalah project python pertama saya yang bertujuan untuk menyelesaikan kelas 
     pip install streamlit
     pip install -r requirements.txt
 
+## Cara Penggunaan 
+1. Ke Local Directory
+ ```shell
+    cd dashboard/bike-sharing-main/dashboard
+```
 
-#Link Streamlit_deploy
+2. Run Streamlit App
+```
+   streamlit run dashboard.py
+```
+## Link Streamlit_deploy
  Klik Disini untuk melihat website [Bike_sharing_rish](https://bike-sharing-rish.streamlit.app//)
